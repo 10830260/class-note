@@ -5,6 +5,6 @@ heroText: 筆記
 tagline: 憑記憶寫
 actions:
   - text: 給我滾進去
-    link: /blog/
+    link: /Note/
     type: primary
 ---
